@@ -1,0 +1,2 @@
+Programda çeşitli uyarılar gözükecektir ancak bu durum programın çalışmasına engel değildir.
+Program yaklaşık 6 denemede 1 kez makefile hatası vererek bitirmektedir ancak işlemler hiçbir şekilde yarıda kesilmez program bittikten sonra hata verir.5 ten fazla sayı girildiğinde makefile hatası olasılığı artmaktadır. 
